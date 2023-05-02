@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed ABIDAR</h1>
 <h3 align="center">A passionate fullstack web developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidarm" alt="abidarm" /></a> </p>
-
 - 🌱 I’m currently learning **SEO & Digital Marketing**
 
 - 👨‍💻 All of my projects are available at [medarweb.com/portfolio](medarweb.com/portfolio)
