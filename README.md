@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [medarweb.com](medarweb.com)
 
-- ⚡ Fun fact **I can't talk or listen while I'm coding**
+- ⚡ Fun fact **I can't talk while I'm coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
