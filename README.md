@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **php, css, js, wordpress, laravel, flutter**
 
-- 📫 How to reach me **contact@medarweb.com**
+- 📫 How to reach me **contact@abidar.dev**
 
-- 📄 Know about my experiences [medarweb.com](https://abidar.dev)
+- 📄 Know about my experiences [abidar.dev](https://abidar.dev)
 
 - ⚡ Fun fact **I can't talk while I'm coding**
 
