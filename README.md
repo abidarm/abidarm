@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **SEO & Digital Marketing**
 
-- 👨‍💻 All of my projects are available at [medarweb.com/portfolio](https://medarweb.com/portfolio)
+- 👨‍💻 All of my projects are available at [abidar.dev/portfolio](https://abidar.dev/portfolio)
 
-- 📝 I regularly write articles on [medarweb.com/blog](https://medarweb.com/blog)
+- 📝 I regularly write articles on [abidar.dev/blog](https://abidar.dev/blog)
 
 - 💬 Ask me about **php, css, js, wordpress, laravel, flutter**
 
 - 📫 How to reach me **contact@medarweb.com**
 
-- 📄 Know about my experiences [medarweb.com](https://medarweb.com)
+- 📄 Know about my experiences [medarweb.com](https://abidar.dev)
 
 - ⚡ Fun fact **I can't talk while I'm coding**
 
