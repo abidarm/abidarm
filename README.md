@@ -93,16 +93,15 @@
 </p>
 <br>
 
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=abidarm&show_icons=true&locale=en&theme=dracula" alt="abidarm" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abidarm&theme=dracula" alt="abidarm" />
-</p>
-
-<br>
-
-<p align="center" style="padding-top: 10px; clear:both">
+<p align="center" >
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abidarm&show_icons=true&locale=en&layout=compact&theme=dracula"
         alt="abidarm" />
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abidarm&show_icons=true&locale=en&theme=dracula" alt="abidarm" />
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidarm&theme=dracula" alt="abidarm" />
+</p>
+
