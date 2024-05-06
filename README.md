@@ -98,9 +98,9 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abidarm&show_icons=true&locale=en&layout=compact&theme=dracula"
         alt="abidarm" />
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abidarm&show_icons=true&locale=en&theme=dracula" alt="abidarm" />
-</p>
+</p> -->
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidarm&theme=dracula" alt="abidarm" />
 </p>
