@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed ABIDAR</h1>
 <h3 align="center">A passionate fullstack web developer from Morocco</h3>
-<p>
+
 - 🌱 I'm currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [abidar.dev/portfolio](https://abidar.dev/portfolio)
