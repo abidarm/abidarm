@@ -3,6 +3,8 @@
 
 # 💫 About Me:
 
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IzMG9oejBheXM4YjM5YWMyaG1tbDVkaWpmNzJzNGtpaTNzbWU1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="230">
+
 - 🌱 I'm currently learning **Cybersecurity**<br>
 - 👨‍💻 All of my projects are available at [abidar.dev/portfolio](https://abidar.dev/portfolio)<br>
 - 📝 I regularly write articles on [abidar.dev/blog](https://abidar.dev/blog)<br>
